@@ -8,9 +8,6 @@
 
 ###
 
-### 🚀 About Me
-I'm a student at **Hanoi University of Transport and Communications** 🎓
-
 ###
 
 ### 🛠️ Tech Stack
