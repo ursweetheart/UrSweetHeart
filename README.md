@@ -11,8 +11,6 @@
 ### 🚀 About Me
 I'm a student at **Hanoi University of Transport and Communications** 🎓
 
-Currently learning **Machine Learning & Deep Learning** on my journey to becoming an **AI Engineer** 🤖
-
 ###
 
 ### 🛠️ Tech Stack
